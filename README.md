@@ -11,7 +11,8 @@ Conversations with the host and between the teenagers can reveal backstory and h
 2. Set-Up Phase:
 
 The player sets up their room, which serves as a safe hub.
-The setup includes placing down any items they've found that may be useful later.
+The setup includes storing any items they've found that may be useful later,
+or deciding which characters come with them to explore the motel.
 
 3. Investigation Phase:
 
