@@ -1,7 +1,7 @@
 # Echoes of the Fallen Motel
 A top down rougue like horror game that takes place in a long forgotten motel and the areas surrounding.
 
-# Core Gameplay Loop
+# Core Gameplay Loop (Subject to change)
 1. Exploration Phase:
 
 The player controls the group of teenagers as they explore the motel.
