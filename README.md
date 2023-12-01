@@ -49,7 +49,7 @@ The game could end with a twist that sets up potential further investigation or 
 
 The game could introduce new mysteries or "what if" scenarios that encourage replayability, with different outcomes based on player choices.
 
-#Town Name Ideas:
+# Town Name Ideas:
 
 "Ravenwood Hollow"
 
