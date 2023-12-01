@@ -1,5 +1,5 @@
 # Echoes of the Fallen Motel
-A top down horror game that takes place in a long forgotten motel and the areas surrounding.
+A top down rougue like horror game that takes place in a long forgotten motel and the areas surrounding.
 
 # Core Gameplay Loop
 1. Exploration Phase:
